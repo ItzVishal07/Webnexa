@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://itzvish07.github.io/Webnexa/sitemap.xml
